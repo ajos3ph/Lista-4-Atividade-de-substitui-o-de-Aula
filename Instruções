@@ -1,0 +1,23 @@
+# Lista-4-Atividade-de-substitui-o-de-Aula
+Atividade de substituição de Aula
+
+Desenvolvimento Móvel
+Projeto Final
+Aluno: André José da Silva Fernandes
+Prof. Me. Aldo Henrique
+Data de entrega: 30/05/2019
+
+Deve ser implementado um aplicativo utilizando o http://app.thunkable.com. Dessa forma,
+na tela principal o usuário deve ter as seguintes opções (dois botões):
+                  1. Calculadora Básica
+                   2. Navegador
+                   
+(1) Quando clicado no primeiro botão, deve-se abrir uma nova tela do aplicativo e criar
+uma calculadora com operadores básicos (+,-,*,/ e %).
+
+(2) Quando clicado no segundo botão, deve-se abrir uma nova tela do aplicativo e ser
+implementado um navegador básico, onde o usuário entra com o endereço do site, e o
+mesmo seja aberto no próprio aplicativo.
+
+Ou seja, o aplicativo terá 3 telas, sendo a tela inicial, a tela da calculadora e o
+navegador.
